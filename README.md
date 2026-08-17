@@ -42,6 +42,7 @@ The objective is to understand booking patterns, customer characteristics, room 
 
 - `Task_5.ipynb` — Complete EDA notebook
 - `Task_5_EDA_Detailed_Report.pdf` — Detailed report of findings
+-  - `INNHotelsGroup.csv` — Hotel booking dataset used for the analysis
 
 ## Conclusion
 
